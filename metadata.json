@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "Copy of AgriMate",
+  "description": "Smart AI agricultural assistant for crop lifecycle education and analysis."
+}
